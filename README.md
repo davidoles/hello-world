@@ -1,5 +1,4 @@
 # hello-world
 my new repository
 
-I don't know what I'm doing, but I will figure it out.
-For real.
+I'm starting to get the hang of it, I will be done with chemistry shortly.
